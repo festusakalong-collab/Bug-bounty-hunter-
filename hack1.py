@@ -1,0 +1,5 @@
+print("=== My First Hacker Tool ===")
+domain = input("Target: ")
+print(f"[*] Scanning {domain}...")
+print(f"[+] Found: www.{domain}")
+print(f"[+] Found: mail.{domain}")
